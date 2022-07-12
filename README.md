@@ -1,4 +1,8 @@
 # sql_basics
+
+## **Resources:**
+- [postgreSQL tutorial](https://www.postgresqltutorial.com/)
+- [sql for generating hr schema](assets/create_hr_schema.sql)
  
  ## How to Use it:
  - Open the handbook pdf from assets
@@ -7,7 +11,7 @@
  - The file name denote the corresponding practise section of the book
 
 ## Things to Keep in Mind:
-- The sql of this repository were written focusing on oracle sql.
+- The sql of this repository were written focusing on oracle sql except pgsql.
 - Most of the files use HR module of oracle sql. So before running them, your system must be connected to HR moduel.
 
 __*This repository contain my solutions to the practise problems. Your solution may differ.*__
