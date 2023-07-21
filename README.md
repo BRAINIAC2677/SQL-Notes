@@ -1,6 +1,5 @@
-# sql_notes
-
-<img src="assets/meme.jpg" height=300px>
+# SQL Notes
+Contains SQL practise problems and solutions.
 
 ## **Things to Keep in Mind:**
 - Single statement SQL were solved focusing on [oracle database](https://www.oracle.com/database/) whereas PL/pgSQL were written focusing on [postgreSQL](https://www.postgresql.org/).
@@ -12,8 +11,7 @@ __*This repository contain my solutions to the practise problems and sql written
  ## **How to Use it:**
  - Open the [oracle handbook](assets/oracle_sql_handbook.pdf) from assets
  - Read the topics and try to solve the practise problems
- - If you are stuck you can see the solution from this repository
- - The file name denote the corresponding practise section of the book
+ - If you are stuck you can see the solution from this repository. Use the index section.
  <hr>
 
 ## **Index:** 
